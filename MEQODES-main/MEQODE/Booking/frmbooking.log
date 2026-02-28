@@ -1,0 +1,12 @@
+Line 52: Class MSComCtl2.DTPicker of control dtPick was not a loaded control class.
+Line 135: Class MSComCtl2.DTPicker of control dtReturn was not a loaded control class.
+Line 58: The property name _ExtentX in dtPick is invalid.
+Line 59: The property name _ExtentY in dtPick is invalid.
+Line 60: The property name _Version in dtPick is invalid.
+Line 61: The property name Format in dtPick is invalid.
+Line 62: The property name CurrentDate in dtPick is invalid.
+Line 141: The property name _ExtentX in dtReturn is invalid.
+Line 142: The property name _ExtentY in dtReturn is invalid.
+Line 143: The property name _Version in dtReturn is invalid.
+Line 144: The property name Format in dtReturn is invalid.
+Line 145: The property name CurrentDate in dtReturn is invalid.
